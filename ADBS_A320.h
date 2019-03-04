@@ -35,7 +35,7 @@
 #define	Observation		0x2e
 #define	Soft_RESET		0x3a
 #define	Shutter_Max_Hi		0x3b
-#define	Shutter__Max_Lo		0x3c
+#define	Shutter_Max_Lo		0x3c
 #define	Inverse_Revision_ID	0x3e
 #define	Inverse_Product_ID	0x3f
 #define	OFN_Engine		0x60
